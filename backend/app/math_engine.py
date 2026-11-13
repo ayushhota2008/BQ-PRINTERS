@@ -370,8 +370,8 @@ class MathEngine:
                 "workload_minutes": round(float(day_workload_mins), 1),
                 "workload_hours": float(day_workload_hours),
                 "utilization_percent": float(day_util),
-                "is_overloaded": bool(day_util > 100.0 or (staff_counts[d_idx] == 0 and day_workload_hours > 0)),
-                "is_underused": bool(day_util < 30.0 and avail_hours > 0),
+                "is_overloaded": True if (day_util > 100.0 or (staff_counts[d_idx] == 0 and day_workload_hours > 0)) else False,
+                "is_underused": True if (day_util < 30.0 and avail_hours > 0) else False,
                 "extra_staff_hours_needed": extra_hours
             })
 
@@ -442,8 +442,8 @@ class MathEngine:
             else:
                 staff_util = 0.0
 
-            is_overloaded = bool(staff_util > 100.0 or (staff_present == 0 and slot_workload_mins > 0))
-            is_underused = bool(staff_util < 30.0 and staff_cap_hours > 0)
+            is_overloaded = True if (staff_util > 100.0 or (staff_present == 0 and slot_workload_mins > 0)) else False
+            is_underused = True if (staff_util < 30.0 and staff_cap_hours > 0) else False
             extra_staff_hours = max(0.0, round(slot_workload_hours - staff_cap_hours, 2))
 
             # Printer capacity in this slot
