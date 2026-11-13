@@ -60,6 +60,31 @@ Double-click [`start-website.bat`](file:///c:/Users/AYUSH/OneDrive/Desktop/proje
 
 ---
 
+## 🚂 Deploying to Railway
+
+You can deploy both the backend and frontend to Railway using the GitHub repository:
+
+### Step 1: Deploy Backend (FastAPI)
+1. Go to **[railway.com/new/github](https://railway.com/new/github)** and select **`ayushhota2008/BQ-PRINTERS`**.
+2. Go to the newly created service **Settings**:
+   - Set **Root Directory** to: `/backend`
+3. Under **Networking**, click **Generate Domain** (e.g. `https://bq-printers-backend.up.railway.app`).
+4. (Optional) In **Variables**, add:
+   - `SUPABASE_URL` = your Supabase URL
+   - `SUPABASE_KEY` = your Supabase key
+
+### Step 2: Deploy Frontend (Next.js)
+1. In the same Railway project canvas, click **+ New** -> **GitHub Repo** -> select **`ayushhota2008/BQ-PRINTERS`** again.
+2. In the new service **Settings**:
+   - Set **Root Directory** to: `/frontend`
+3. In **Variables**, add:
+   - `NEXT_PUBLIC_API_URL` = `https://<backend-domain>.up.railway.app` (from Step 1)
+4. Under **Networking**, click **Generate Domain** (e.g. `https://bq-printers-web.up.railway.app`).
+5. Open your frontend domain in your browser!
+
+
+---
+
 ### Option B: Individual Terminals
 
 #### 1. Start the FastAPI Backend

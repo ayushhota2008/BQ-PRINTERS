@@ -1,4 +1,5 @@
-const API_BASE = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000/api";
+const rawApiUrl = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000/api";
+const API_BASE = rawApiUrl.endsWith("/api") ? rawApiUrl : `${rawApiUrl.replace(/\/+$/, "")}/api`;
 
 async function getAuthToken(): Promise<string | undefined> {
   return undefined;
