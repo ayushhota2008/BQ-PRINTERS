@@ -11,7 +11,6 @@ import {
   Cpu,
   FileCheck,
   Download,
-  ShieldCheck,
   Sparkles,
   TrendingUp,
   Target,
@@ -125,7 +124,7 @@ export default function LandingPage() {
               BQ PRINTERS helps you analyze your 7-day printing shop data, identify demand patterns, find peak hours and get actionable recommendations — all in one easy-to-use platform.
             </p>
 
-            <div style={{ display: "flex", alignItems: "center", gap: "14px", flexWrap: "wrap", marginBottom: "20px" }}>
+            <div style={{ display: "flex", alignItems: "center", gap: "14px", flexWrap: "wrap" }}>
               <Link href="/dashboard" className="btn-primary" style={{ padding: "12px 26px", fontSize: "14px" }}>
                 <span>Launch Dashboard</span>
                 <ArrowRight size={16} />
@@ -133,10 +132,6 @@ export default function LandingPage() {
               <Link href="/upload" className="btn-secondary" style={{ padding: "12px 22px", fontSize: "14px" }}>
                 <span>Upload Dataset</span>
               </Link>
-            </div>
-            <div style={{ display: "flex", alignItems: "center", gap: "10px", fontSize: "12px", color: "#64748b", fontWeight: "600" }}>
-              <ShieldCheck size={16} color="#059669" />
-              <span>Direct Open Access • Mathematical Demand Analyzer</span>
             </div>
           </div>
 

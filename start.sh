@@ -16,3 +16,4 @@ echo "[STARTUP] Launching Next.js frontend on 0.0.0.0:${RAILWAY_PORT}..."
 
 cd /app/frontend
 exec npm start -- -p ${RAILWAY_PORT} -H 0.0.0.0
+

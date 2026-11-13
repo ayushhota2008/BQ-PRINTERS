@@ -44,3 +44,4 @@ ENV NODE_ENV=production
 ENV PYTHONUNBUFFERED=1
 
 CMD ["./start.sh"]
+
