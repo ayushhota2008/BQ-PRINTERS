@@ -1,0 +1,226 @@
+[
+  {
+    "Day": "Monday",
+    "Service": "B&W Printing",
+    "9 AM\u201311 AM": 0,
+    "11 AM\u20131 PM": 0,
+    "1 PM\u20134 PM": 0,
+    "4 PM\u20136 PM": 0
+  },
+  {
+    "Day": "Monday",
+    "Service": "Colour Printing",
+    "9 AM\u201311 AM": 0,
+    "11 AM\u20131 PM": 117,
+    "1 PM\u20134 PM": 0,
+    "4 PM\u20136 PM": 0
+  },
+  {
+    "Day": "Monday",
+    "Service": "Binding",
+    "9 AM\u201311 AM": 0,
+    "11 AM\u20131 PM": 0,
+    "1 PM\u20134 PM": 0,
+    "4 PM\u20136 PM": 0
+  },
+  {
+    "Day": "Monday",
+    "Service": "Photocopying",
+    "9 AM\u201311 AM": 0,
+    "11 AM\u20131 PM": 148,
+    "1 PM\u20134 PM": 0,
+    "4 PM\u20136 PM": 0
+  },
+  {
+    "Day": "Tuesday",
+    "Service": "B&W Printing",
+    "9 AM\u201311 AM": 29,
+    "11 AM\u20131 PM": 43,
+    "1 PM\u20134 PM": 214,
+    "4 PM\u20136 PM": 0
+  },
+  {
+    "Day": "Tuesday",
+    "Service": "Colour Printing",
+    "9 AM\u201311 AM": 0,
+    "11 AM\u20131 PM": 0,
+    "1 PM\u20134 PM": 0,
+    "4 PM\u20136 PM": 0
+  },
+  {
+    "Day": "Tuesday",
+    "Service": "Binding",
+    "9 AM\u201311 AM": 0,
+    "11 AM\u20131 PM": 0,
+    "1 PM\u20134 PM": 0,
+    "4 PM\u20136 PM": 0
+  },
+  {
+    "Day": "Tuesday",
+    "Service": "Photocopying",
+    "9 AM\u201311 AM": 0,
+    "11 AM\u20131 PM": 0,
+    "1 PM\u20134 PM": 0,
+    "4 PM\u20136 PM": 0
+  },
+  {
+    "Day": "Wednesday",
+    "Service": "B&W Printing",
+    "9 AM\u201311 AM": 0,
+    "11 AM\u20131 PM": 0,
+    "1 PM\u20134 PM": 0,
+    "4 PM\u20136 PM": 0
+  },
+  {
+    "Day": "Wednesday",
+    "Service": "Colour Printing",
+    "9 AM\u201311 AM": 0,
+    "11 AM\u20131 PM": 5,
+    "1 PM\u20134 PM": 63,
+    "4 PM\u20136 PM": 0
+  },
+  {
+    "Day": "Wednesday",
+    "Service": "Binding",
+    "9 AM\u201311 AM": 0,
+    "11 AM\u20131 PM": 34,
+    "1 PM\u20134 PM": 0,
+    "4 PM\u20136 PM": 0
+  },
+  {
+    "Day": "Wednesday",
+    "Service": "Photocopying",
+    "9 AM\u201311 AM": 146,
+    "11 AM\u20131 PM": 0,
+    "1 PM\u20134 PM": 0,
+    "4 PM\u20136 PM": 0
+  },
+  {
+    "Day": "Thursday",
+    "Service": "B&W Printing",
+    "9 AM\u201311 AM": 0,
+    "11 AM\u20131 PM": 312,
+    "1 PM\u20134 PM": 0,
+    "4 PM\u20136 PM": 0
+  },
+  {
+    "Day": "Thursday",
+    "Service": "Colour Printing",
+    "9 AM\u201311 AM": 0,
+    "11 AM\u20131 PM": 0,
+    "1 PM\u20134 PM": 0,
+    "4 PM\u20136 PM": 0
+  },
+  {
+    "Day": "Thursday",
+    "Service": "Binding",
+    "9 AM\u201311 AM": 0,
+    "11 AM\u20131 PM": 0,
+    "1 PM\u20134 PM": 0,
+    "4 PM\u20136 PM": 0
+  },
+  {
+    "Day": "Thursday",
+    "Service": "Photocopying",
+    "9 AM\u201311 AM": 0,
+    "11 AM\u20131 PM": 0,
+    "1 PM\u20134 PM": 0,
+    "4 PM\u20136 PM": 0
+  },
+  {
+    "Day": "Friday",
+    "Service": "B&W Printing",
+    "9 AM\u201311 AM": 230,
+    "11 AM\u20131 PM": 0,
+    "1 PM\u20134 PM": 0,
+    "4 PM\u20136 PM": 0
+  },
+  {
+    "Day": "Friday",
+    "Service": "Colour Printing",
+    "9 AM\u201311 AM": 0,
+    "11 AM\u20131 PM": 0,
+    "1 PM\u20134 PM": 0,
+    "4 PM\u20136 PM": 0
+  },
+  {
+    "Day": "Friday",
+    "Service": "Binding",
+    "9 AM\u201311 AM": 0,
+    "11 AM\u20131 PM": 0,
+    "1 PM\u20134 PM": 0,
+    "4 PM\u20136 PM": 0
+  },
+  {
+    "Day": "Friday",
+    "Service": "Photocopying",
+    "9 AM\u201311 AM": 0,
+    "11 AM\u20131 PM": 56,
+    "1 PM\u20134 PM": 0,
+    "4 PM\u20136 PM": 0
+  },
+  {
+    "Day": "Saturday",
+    "Service": "B&W Printing",
+    "9 AM\u201311 AM": 0,
+    "11 AM\u20131 PM": 0,
+    "1 PM\u20134 PM": 0,
+    "4 PM\u20136 PM": 0
+  },
+  {
+    "Day": "Saturday",
+    "Service": "Colour Printing",
+    "9 AM\u201311 AM": 50,
+    "11 AM\u20131 PM": 0,
+    "1 PM\u20134 PM": 18,
+    "4 PM\u20136 PM": 35
+  },
+  {
+    "Day": "Saturday",
+    "Service": "Binding",
+    "9 AM\u201311 AM": 28,
+    "11 AM\u20131 PM": 0,
+    "1 PM\u20134 PM": 25,
+    "4 PM\u20136 PM": 7
+  },
+  {
+    "Day": "Saturday",
+    "Service": "Photocopying",
+    "9 AM\u201311 AM": 0,
+    "11 AM\u20131 PM": 0,
+    "1 PM\u20134 PM": 0,
+    "4 PM\u20136 PM": 48
+  },
+  {
+    "Day": "Sunday",
+    "Service": "B&W Printing",
+    "9 AM\u201311 AM": 0,
+    "11 AM\u20131 PM": 0,
+    "1 PM\u20134 PM": 0,
+    "4 PM\u20136 PM": 90
+  },
+  {
+    "Day": "Sunday",
+    "Service": "Colour Printing",
+    "9 AM\u201311 AM": 31,
+    "11 AM\u20131 PM": 0,
+    "1 PM\u20134 PM": 0,
+    "4 PM\u20136 PM": 0
+  },
+  {
+    "Day": "Sunday",
+    "Service": "Binding",
+    "9 AM\u201311 AM": 0,
+    "11 AM\u20131 PM": 13,
+    "1 PM\u20134 PM": 0,
+    "4 PM\u20136 PM": 0
+  },
+  {
+    "Day": "Sunday",
+    "Service": "Photocopying",
+    "9 AM\u201311 AM": 0,
+    "11 AM\u20131 PM": 0,
+    "1 PM\u20134 PM": 98,
+    "4 PM\u20136 PM": 0
+  }
+]

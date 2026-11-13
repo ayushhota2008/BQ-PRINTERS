@@ -1,0 +1,32 @@
+# Virtual Environments
+.venv/
+backend/.venv/
+env/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Node / Next.js
+frontend/node_modules/
+frontend/.next/
+node_modules/
+.next/
+
+# Environment Variables
+.env
+.env.local
+*.env
+
+# VS Code & OS
+.DS_Store
+Thumbs.db
+
+# Understand Anything & Local Agents Cache
+.ua/
+.agents/
+
+

@@ -1,0 +1,29 @@
+Day,Service,9 AM–11 AM,11 AM–1 PM,1 PM–4 PM,4 PM–6 PM
+Monday,B&W Printing,0,0,0,0
+Monday,Colour Printing,0,117,0,0
+Monday,Binding,0,0,0,0
+Monday,Photocopying,0,148,0,0
+Tuesday,B&W Printing,29,43,214,0
+Tuesday,Colour Printing,0,0,0,0
+Tuesday,Binding,0,0,0,0
+Tuesday,Photocopying,0,0,0,0
+Wednesday,B&W Printing,0,0,0,0
+Wednesday,Colour Printing,0,5,63,0
+Wednesday,Binding,0,34,0,0
+Wednesday,Photocopying,146,0,0,0
+Thursday,B&W Printing,0,312,0,0
+Thursday,Colour Printing,0,0,0,0
+Thursday,Binding,0,0,0,0
+Thursday,Photocopying,0,0,0,0
+Friday,B&W Printing,230,0,0,0
+Friday,Colour Printing,0,0,0,0
+Friday,Binding,0,0,0,0
+Friday,Photocopying,0,56,0,0
+Saturday,B&W Printing,0,0,0,0
+Saturday,Colour Printing,50,0,18,35
+Saturday,Binding,28,0,25,7
+Saturday,Photocopying,0,0,0,48
+Sunday,B&W Printing,0,0,0,90
+Sunday,Colour Printing,31,0,0,0
+Sunday,Binding,0,13,0,0
+Sunday,Photocopying,0,0,98,0

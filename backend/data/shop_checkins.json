@@ -1,0 +1,18 @@
+{
+  "2026-11-13": {
+    "checkin_date": "2026-11-13",
+    "staff_present": 1,
+    "printer_issue": false,
+    "working_printers": "all",
+    "notes": "",
+    "timestamp": "2026-11-13T23:24:42.206194"
+  },
+  "2026-11-20": {
+    "checkin_date": "2026-11-20",
+    "staff_present": 4,
+    "printer_issue": true,
+    "working_printers": "hp_only",
+    "notes": "",
+    "timestamp": "2026-11-14T00:00:19.451654"
+  }
+}

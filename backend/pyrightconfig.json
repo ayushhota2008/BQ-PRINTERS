@@ -1,0 +1,15 @@
+{
+  "venvPath": ".",
+  "venv": ".venv",
+  "extraPaths": [
+    ".",
+    "app",
+    ".venv/Lib/site-packages"
+  ],
+  "include": [
+    "."
+  ],
+  "reportMissingImports": "none",
+  "reportMissingTypeStubs": false
+}
+
